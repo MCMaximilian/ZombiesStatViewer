@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.mcmaximilian.Main
+Class-Path: junit-jupiter-engine-5.9.2.jar junit-platform-engine-1.9.2.j
+ ar junit-jupiter-api-5.9.2.jar hamcrest-core-1.1.jar opentest4j-1.2.0.j
+ ar junit-platform-commons-1.9.2.jar apiguardian-api-1.1.2.jar json-simp
+ le-1.1.1.jar junit-4.10.jar json-simple-1.1.1.jar
+
