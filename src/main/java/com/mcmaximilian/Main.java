@@ -74,7 +74,7 @@ public class Main {
             }
 
 
-            String playerURL = "https://api.hypixel.net/player?key=df3210dd-ec57-412a-94ff-d313ba439c5a&uuid=" + uuid;
+            String playerURL = "https://api.hypixel.net/player?key=076a5a08-8b1e-4328-86de-073877b54849&uuid=" + uuid;
 
             try {
                 String fileName = "player.json";
